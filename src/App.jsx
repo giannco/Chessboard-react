@@ -1,5 +1,5 @@
 import React from 'react';
-import Chessboard from './components/Chessboard.jsx';
+import Chessboard from './Components/Chessboard.jsx';
 import './App.css';
 
 function App() {
