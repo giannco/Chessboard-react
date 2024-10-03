@@ -42,6 +42,30 @@ let possibleMoves = [
 
 This project uses Jest for testing. The tests cover the knight’s movement logic and ensure that the knight only moves to valid squares on the chessboard.
 
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Install dependencies**:
+    ```bash
+    npm install
+    ```
+
+2. **Run tests**:
+    ```bash
+    npm run test
+    ```
+
+3. **Start the development server**:
+    ```bash
+    npm run dev
+    ```
+
+4. **Build for production**:
+    ```bash
+    npm run build
+    ```
+
 ## License
 
 This project is licensed under the MIT License.
